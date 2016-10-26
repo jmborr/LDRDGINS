@@ -1,3 +1,8 @@
+# Scratch and temporary files
+junk*
+*~
+*#
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
